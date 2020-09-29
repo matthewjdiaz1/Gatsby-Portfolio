@@ -1,0 +1,19 @@
+- name: Ice Cream Shop
+  url: https://matthewjdiaz1.github.io/IceCreamShop
+  description: This is an MVP proof of concept take of an ice cream shop website loosely based on Haagendazs. 
+  status: live
+  tags:
+    - JavaScript
+    - React
+    - Node
+  icon: github
+
+# - name: Example 2
+#   url: https://github.com
+#   description: Leverage agile frameworks to provide a robust synopsis for high level overviews.
+#   status: live
+#   tags:
+#     - JavaScript
+#     - HTML
+#   icon: website
+#   image: images/project.jpg
