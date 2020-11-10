@@ -12,9 +12,8 @@
   focus_url: false
   about: |
     I’m a full stack software developer. I enjoy working on mobile and web app projects, particularly in fast paced team settings.
-    
-    My current tech stack usually combines Node on the backend with React or React Native on the frontend. I like to use GraphQL, AWS, and I have recently been experimenting with Gatsby.
 
+    My current tech stack usually combines Node on the backend with React or React Native on the frontend. I like to use GraphQL, AWS, and both SQL and NoSQL databases.
   skills:
     - JavaScript
     - React

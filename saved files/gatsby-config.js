@@ -10,10 +10,12 @@ module.exports = {
       options: {
         // theme: "classic",
         // theme: "dark-pink",
-        theme: "bright-red",
+        theme: "dark-blue",
         showThemeLogo: false,
-        // pathPrefix: "/portfolio",
+        pathPrefix: "/portfolio",
       },
     },
   ],
 }
+
+//    I’m a full stack software developer. I enjoy working on mobile/web apps, particularly in fast paced team settings. an integrated team setting while depending and being depended on by a large, fast paced team.
